@@ -2,6 +2,7 @@
   "name": "the-agora",
   "version": "1.0.0",
   "description": "The Agora — A discourse engine for contested questions",
+  "type": "module",
   "private": true,
   "engines": {
     "node": ">=18"
